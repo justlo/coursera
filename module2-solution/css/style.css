@@ -13,7 +13,7 @@
 	font-size: 175%	
  }
 
- div#container {
+.container {
   margin-right: auto;
   margin-left: auto;
   padding: 15px;
