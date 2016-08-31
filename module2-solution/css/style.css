@@ -10,7 +10,7 @@
  h1 {
  	text-align: center;
  	font-weight: bold;
-	font-size: 175%	
+	font-size: 175%;	
  }
 
 .container {
@@ -46,7 +46,7 @@ p {
 	width: 30%;
 	margin-left: 70%;
 	font-weight: bold;
-	font-size: 125%	
+	font-size: 125%;
 }
 
 #beef {
@@ -56,7 +56,7 @@ p {
 	width: 30%;
 	margin-left: 70%;
 	font-weight: bold;
-	font-size: 125%	
+	font-size: 125%;
 }
 
 #sushi {
@@ -66,7 +66,7 @@ p {
 	width: 30%;
 	margin-left: 70%;
 	font-weight: bold;
-	font-size: 125%	
+	font-size: 125%;
 }
 
 /********** Desktop View **********/
@@ -158,7 +158,7 @@ p {
 }
 
 /********** Mobile View **********/
-@media ((max-width: 767px) {
+@media (max-width: 767px) {
  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm10, .col-sm-11, .col-sm-12 {
     float: left;
   }
