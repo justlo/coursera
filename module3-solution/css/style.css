@@ -19,16 +19,16 @@ body {
 
 .navbar-brand {
 	 padding-top: 25px;
-	 /* margin-left: 0px; */
 }
 
 .navbar-brand h1 { /* Restaurant name */
 	color: #FF8C00;
 	text-transform: uppercase;
+	font-size: 30px;
 	font-weight: bold;
 	margin-top: 0;
 	margin-bottom: 0px;
-	line-height: 0.75;
+	line-height: 0.20;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
