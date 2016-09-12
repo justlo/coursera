@@ -52,9 +52,9 @@ WARNING!!! WARNING!!!
     // string object's 'toLowerCase' method on the result so we can compare
     // to lower case character 'j' afterwards.
     // Look up these methods on Mozilla Developer Network web site if needed.
-    var firstLetter = names[i].charAt(0);
+    var firstLetter = names[i].charAt(0).toLowerCase();
     //console.log(firstLetter)
-    firstLetter = firstLetter.toLowerCase();
+    //firstLetter = firstLetter.toLowerCase();
     //console.log(firstLetter)
 
     // STEP 12:
