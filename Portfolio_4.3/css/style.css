@@ -181,6 +181,15 @@ h1, h2, h3{
   width: 100%;
   padding-left: 20%;
 }
+#image_currents {
+  background-image: image("images/Current_Img5.png");
+  width: 400px;
+}
+@media (max-width: 767px) {
+  #image_currents {
+    width: 300px;
+  }
+}
 
 /*END Current Section*/
 
